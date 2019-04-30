@@ -1,0 +1,14 @@
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/bin/Debug/netcoreapp2.1/backend.deps.json
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.json
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.dev.json
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/bin/Debug/netcoreapp2.1/backend.dll
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/bin/Debug/netcoreapp2.1/backend.pdb
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.csprojAssemblyReference.cache
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.csproj.CoreCompileInputs.cache
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cache
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cs
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfoInputs.cache
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfo.cs
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.RazorTargetAssemblyInfo.cache
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.dll
+/Users/marthagonzalez/Documents/my_projects/group_proj/SneakerHead/backend/obj/Debug/netcoreapp2.1/backend.pdb
